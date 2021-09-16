@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608324194 source:c:\users\halil\desktop\codeblocksprojects\ee441_pa2_ahmetberker_koç_2232320\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<time.h>
+
